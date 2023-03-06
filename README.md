@@ -1,6 +1,6 @@
 #🧰 CLUW HWIND-CHECKER | v1
 
-![](https://github.com/4karaDEV/StormyGen/blob/main/assets/def.PNG)
+![](https://github.com/4karaDEV/HWID-CHECKER/blob/main/assets/def.PNG)
 
 <h1 align="center">
  CLUW About
