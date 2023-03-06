@@ -1,4 +1,4 @@
-#🧰 CLUW HWIND-CHECKER | v1
+#🤿 CLUW HWIND-CHECKER | v1
 
 ![](https://github.com/4karaDEV/HWID-CHECKER/blob/main/assets/def.PNG)
 
